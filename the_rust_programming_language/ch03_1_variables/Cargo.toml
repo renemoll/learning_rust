@@ -1,5 +1,5 @@
 [package]
-name = "ch03_control"
+name = "ch03_1_variables"
 version = "0.1.0"
 edition = "2021"
 
